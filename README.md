@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP, Wordpress or Laravel**
 
-- 📫 How to reach me **luanvilas0@gmail.com**
+- 📫 How to reach me: **luanvilas0@gmail.com**
 
 - ⚡ Fun fact **I also like to read about games development and design**
 <hr/>
@@ -21,9 +21,11 @@
     <tr>
       <td align="center">
         <img
+        
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
-          height="40"
-          alt="javascript logo"
+          height="40";
+          alt="javascript logo";
+          style="filter: invert(100%);"
         />
         <img width="12" /><br><p>PHP</p>
       </td>
