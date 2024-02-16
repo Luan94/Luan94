@@ -3,15 +3,19 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJS and TDD**
 
-- 💬 Ask me about: **PHP, Wordpress or Laravel**
+- 💬 Ask me about **PHP, Wordpress or Laravel**
 
 - 📫 How to reach me: **luanvilas0@gmail.com**
 
-- ⚡ Fun fact: **I also like to read about games development and design**
+- ⚡ Fun fact **I also like to read about games development and design**
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luanvilasboas-desenvolvedor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
+<h2 align="center">📫 Conecte-se Comigo</h2>
+
+<div align = "center">
+
+<a href="https://api.whatsapp.com/send/?phone=5521982361213" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/luanvilasboas-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+[![Gmail: Luan Vilas Boas](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:luanvilas0@gmail.com)&nbsp;
 
 </p>
 <hr/>
