@@ -25,7 +25,7 @@
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /><br><p>PHP</p>
+        <img width="12" /><br>PHP
       </td>
       <td align="center">
         <img
@@ -33,7 +33,7 @@
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /><br><p>Javascript</p>
+        <img width="12" /><br>Javascript
         </td>
         <td align="center">
         <img
@@ -51,7 +51,14 @@
         />
         <img width="12" /> <br><p>ReactJS</p>
         </td>
-        
+        <td align="center">
+        <img
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"
+            height="40"
+            alt="typescript logo"
+        />
+        <img width="12" /> MySQL
+        </td>
     </tr>
     <tr>
         <td align="center">
