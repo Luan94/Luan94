@@ -21,7 +21,6 @@
     <tr>
       <td align="center">
         <img
-        
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
           height="40"
           alt="javascript logo"
