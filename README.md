@@ -24,7 +24,7 @@
       <td align="center">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-          height="40"
+          height="60"
           alt="javascript logo"
         />
         <img width="12" /><br><p>PHP</p>
@@ -32,7 +32,7 @@
       <td align="center">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-          height="40"
+          height="60"
           alt="typescript logo"
         />
         <img width="12" /><br><p>Javascript</p>
@@ -40,7 +40,7 @@
         <td align="center">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-            height="40"
+            height="60"
             alt="typescript logo"
         />
         <img width="12" /><br><p>Laravel</p>
@@ -48,7 +48,7 @@
         <td align="center">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-            height="40"
+            height="60"
             alt="typescript logo"
         />
         <img width="12" /> <br><p>ReactJS</p>
@@ -58,7 +58,7 @@
         <td align="center">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-                height="40"
+                height="60"
                 alt="typescript logo"
             />
             <img width="12" /><p>MySQL</p> 
@@ -66,7 +66,7 @@
         <td align="center">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-            height="40"
+            height="60"
             alt="typescript logo"
         />
         <img width="12" /><p>Bootstrap</p>
@@ -74,7 +74,7 @@
         <td align="center">
             <img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-                height="40"
+                height="60"
                 alt="typescript logo"
             />
             <img width="12" /><p>Docker</p>
@@ -82,7 +82,7 @@
             <td align="center">
                 <img
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-                    height="40"
+                    height="60"
                     alt="typescript logo"
                 />
                 <img width="12" /><p>Tailwind</p>
