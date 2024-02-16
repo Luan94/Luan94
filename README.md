@@ -31,7 +31,7 @@
       </td>
       <td align="center">
         <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
           height="40"
           alt="typescript logo"
         />
@@ -39,7 +39,7 @@
         </td>
         <td align="center">
         <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
             height="40"
             alt="typescript logo"
         />
@@ -47,7 +47,7 @@
         </td>
         <td align="center">
         <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
             height="40"
             alt="typescript logo"
         />
@@ -57,7 +57,7 @@
     <tr>
         <td align="center">
             <img
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
                 height="40"
                 alt="typescript logo"
             />
@@ -65,7 +65,7 @@
             </td>
         <td align="center">
         <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
             height="40"
             alt="typescript logo"
         />
@@ -73,7 +73,7 @@
         </td>
         <td align="center">
             <img
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
                 height="40"
                 alt="typescript logo"
             />
@@ -81,7 +81,7 @@
             </td>   
             <td align="center">
                 <img
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
                     height="40"
                     alt="typescript logo"
                 />
