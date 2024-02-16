@@ -18,58 +18,13 @@
 </p>
 <hr/>
 <h3>Current Languages and Tools</h3>
-<table>
-  <tbody td align="center">
-    <tr>
-      <td align="center">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-          height="60"
-          alt="javascript logo"
-        />
-        <img width="12" /><br><p>PHP</p>
-      </td>
-      <td align="center">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-          height="60"
-          alt="typescript logo"
-        />
-        <img width="12" /><br><p>Javascript</p>
-        </td>
-        <td align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-            height="60"
-            alt="typescript logo"
-        />
-        <img width="12" /><br><p>Laravel</p>
-        </td>
-        <td align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-            height="60"
-            alt="typescript logo"
-        />
-        <img width="12" /> <br><p>ReactJS</p>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-                height="60"
-                alt="typescript logo"
-            />
-            <img width="12" /><p>MySQL</p> 
-            </td>
-        <td align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-            height="60"
-            alt="typescript logo"
-        />
-        <img width="12" /><p>Bootstrap</p>
+
+<details open>
+    <summary><b>🏗️ DevOPS Technologies</b></summary>
+    <br>
+    <table>
+        <tbody td align="center">
+          <tr>
         </td>
         <td align="center">
             <img
@@ -78,15 +33,108 @@
                 alt="typescript logo"
             />
             <img width="12" /><p>Docker</p>
-            </td>   
+        </td>
+    </tr>
+</tbody>
+</table>
+
+<details open>
+    <summary><b>👨‍💻Programming Languages Technologies</b></summary>
+    <table>
+        <tbody td align="center">
+          <tr>
             <td align="center">
                 <img
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+                  height="60"
+                  alt="javascript logo"
+                />
+                <img width="12" /><br><p>PHP</p>
+              </td>
+              <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+                  height="60"
+                  alt="typescript logo"
+                />
+                <img width="12" /><br><p>Javascript</p>
+                </td> 
+        </tr>
+</tbody>
+</table>
+
+<details open>
+    <summary><b>⚙️ Database Technologies</b></summary>
+    <table>
+        <tbody td align="center">
+          <tr>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
                     height="60"
                     alt="typescript logo"
                 />
-                <img width="12" /><p>Tailwind</p>
-            </td>        
-    </tr>
-  </tbody>
-</table>
+                <img width="12" /><br><p>Laravel</p>
+            </td>
+        </tr>
+    </tbody>
+    </table>
+
+<details open>
+    <summary><b>⚙️ Backend Technologies</b></summary>
+    <table>
+        <tbody td align="center">
+          <tr>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+                    height="60"
+                    alt="typescript logo"
+                />
+                <img width="12" /><p>MySQL</p> 
+                </td>
+        </tr>
+    </tbody>
+    </table>
+
+    <details open>
+        <summary><b>🖥️ Front-end Technologies</b></summary>
+        <table>
+            <tbody td align="center">
+              <tr>
+                <td align="center">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+                        height="60"
+                        alt="typescript logo"
+                    />
+                    <img width="12" /><br><p>Laravel Blade</p>
+                </td>
+                <td align="center">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+                        height="60"
+                        alt="typescript logo"
+                    />
+                    <img width="12" /> <br><p>ReactJS</p>
+                </td>
+                <td align="center">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+                        height="60"
+                        alt="typescript logo"
+                    />
+                    <img width="12" /><p>Tailwind</p>
+                </td>   
+                <td align="center">
+                    <img
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+                        height="60"
+                        alt="typescript logo"
+                    />
+                    <img width="12" /><p>Bootstrap</p> 
+                </td>
+            </tr>
+        </tbody>
+        </table>
+<table>
