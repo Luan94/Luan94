@@ -25,7 +25,7 @@
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
           height="40";
           alt="javascript logo";
-          style="filter: invert(100%);"
+          style="filter: invert(100%)";
         />
         <img width="12" /><br><p>PHP</p>
       </td>
