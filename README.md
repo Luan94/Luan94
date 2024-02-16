@@ -55,14 +55,6 @@
     </tr>
     <tr>
         <td align="center">
-            <img
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"
-                height="40"
-                alt="typescript logo"
-            />
-            <img width="12" /> MySQL
-            </td>
-        <td align="center">
         <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
             height="40"
