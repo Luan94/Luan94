@@ -81,7 +81,7 @@
             </td>   
             <td align="center">
                 <img
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
                     height="40"
                     alt="typescript logo"
                 />
