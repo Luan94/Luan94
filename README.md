@@ -25,7 +25,7 @@
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /><br>PHP
+        <img width="12" /><br><p>PHP</p>
       </td>
       <td align="center">
         <img
