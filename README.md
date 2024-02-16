@@ -25,7 +25,7 @@
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> PHP
       </td>
       <td>
         <img
@@ -33,7 +33,55 @@
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /> PHP
+        <img width="12" /> Javascript
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> Laravel
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> ReactJS
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> MySQL
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> Bootstrap
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> Tailwind
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> HTML5
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> JQuery
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> OutSystems
       </td>
       <td>
     </tr>
