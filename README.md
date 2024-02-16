@@ -19,7 +19,7 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: center !important;">
+      <td align="center">
         <img
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
           height="40"
@@ -27,7 +27,7 @@
         />
         <img width="12" /><br>PHP
       </td>
-      <td>
+      <td align="center">
         <img
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"
           height="40"
@@ -35,7 +35,7 @@
         />
         <img width="12" /><br>Javascript
         </td>
-        <td>
+        <td align="center">
         <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"
             height="40"
@@ -43,7 +43,7 @@
         />
         <img width="12" /><br>Laravel
         </td>
-        <td>
+        <td align="center">
         <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"
             height="40"
@@ -51,7 +51,7 @@
         />
         <img width="12" /> ReactJS
         </td>
-        <td>
+        <td align="center">
         <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"
             height="40"
@@ -59,7 +59,7 @@
         />
         <img width="12" /> MySQL
         </td>
-        <td>
+        <td align="center">
         <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
             height="40"
@@ -69,7 +69,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
         <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
             height="40"
@@ -77,7 +77,7 @@
         />
         <img width="12" /> Bootstrap
         </td>
-        <td>
+        <td align="center">
             <img
                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"
                 height="40"
