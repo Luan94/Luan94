@@ -81,4 +81,61 @@
 </details>
 
 <details open>
-    <summary><b>⚙️ Backend Techno
+    <summary><b>⚙️ Backend Technologies</b></summary>
+    <table>
+        <tbody td align="center">
+          <tr>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+                    height="60"
+                    alt="Laravel logo"
+                />
+                <img width="12" /><br><p>Laravel</p>
+            </td>
+          </tr>
+        </tbody>
+    </table>
+</details>
+
+<details open>
+    <summary><b>🖥️ Front-end Technologies</b></summary>
+    <table>
+        <tbody td align="center">
+          <tr>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+                    height="60"
+                    alt="Laravel Blade logo"
+                />
+                <img width="12" /><br><p>Laravel Blade</p>
+            </td>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                    height="60"
+                    alt="ReactJS logo"
+                />
+                <img width="12" /> <br><p>ReactJS</p>
+            </td>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+                    height="60"
+                    alt="Tailwind logo"
+                />
+                <img width="12" /><br><p>Tailwind</p>
+            </td>
+            <td align="center">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+                    height="60"
+                    alt="Bootstrap logo"
+                />
+                <img width="12" /><br><p>Bootstrap</p> 
+            </td>
+          </tr>
+        </tbody>
+    </table>
+</details>
