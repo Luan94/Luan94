@@ -10,12 +10,10 @@
 <h2 align="center">📫 How to reach me</h2>
 
 <div align = "center">
-
-<a href="https://api.whatsapp.com/send/?phone=5521982361213" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/luanvilasboas-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-[![Gmail: Luan Vilas Boas](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:luanvilas0@gmail.com)&nbsp;
-
-</p>
+    <a href="https://api.whatsapp.com/send/?phone=5521982361213" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/luanvilasboas-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+    <a href="mailto:luanvilas0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
+</div>
 <hr/>
 <h3>Current Languages and Tools</h3>
 
@@ -25,18 +23,18 @@
     <table>
         <tbody td align="center">
           <tr>
-        </td>
-        <td align="center">
-            <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-                height="60"
-                alt="typescript logo"
-            />
-            <img width="12" /><p>Docker</p>
-        </td>
-    </tr>
-</tbody>
-</table>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+                  height="60"
+                  alt="Docker logo"
+                />
+                <img width="12" /><br><p>Docker</p>
+            </td>
+          </tr>
+        </tbody>
+    </table>
+</details>
 
 <details open>
     <summary><b>👨‍💻Programming Languages Technologies</b></summary>
@@ -45,23 +43,24 @@
           <tr>
             <td align="center">
                 <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
                   height="60"
-                  alt="javascript logo"
+                  alt="PHP logo"
                 />
                 <img width="12" /><br><p>PHP</p>
-              </td>
-              <td align="center">
+            </td>
+            <td align="center">
                 <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
                   height="60"
-                  alt="typescript logo"
+                  alt="Javascript logo"
                 />
                 <img width="12" /><br><p>Javascript</p>
-                </td> 
-        </tr>
-</tbody>
-</table>
+            </td>
+          </tr>
+        </tbody>
+    </table>
+</details>
 
 <details open>
     <summary><b>⚙️ Database Technologies</b></summary>
@@ -70,71 +69,16 @@
           <tr>
             <td align="center">
                 <img
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
                     height="60"
-                    alt="typescript logo"
+                    alt="MySQL logo"
                 />
-                <img width="12" /><br><p>Laravel</p>
+                <img width="12" /><br><p>MySQL</p> 
             </td>
-        </tr>
-    </tbody>
+          </tr>
+        </tbody>
     </table>
+</details>
 
 <details open>
-    <summary><b>⚙️ Backend Technologies</b></summary>
-    <table>
-        <tbody td align="center">
-          <tr>
-            <td align="center">
-                <img
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-                    height="60"
-                    alt="typescript logo"
-                />
-                <img width="12" /><p>MySQL</p> 
-                </td>
-        </tr>
-    </tbody>
-    </table>
-
-    <details open>
-        <summary><b>🖥️ Front-end Technologies</b></summary>
-        <table>
-            <tbody td align="center">
-              <tr>
-                <td align="center">
-                    <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-                        height="60"
-                        alt="typescript logo"
-                    />
-                    <img width="12" /><br><p>Laravel Blade</p>
-                </td>
-                <td align="center">
-                    <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-                        height="60"
-                        alt="typescript logo"
-                    />
-                    <img width="12" /> <br><p>ReactJS</p>
-                </td>
-                <td align="center">
-                    <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-                        height="60"
-                        alt="typescript logo"
-                    />
-                    <img width="12" /><p>Tailwind</p>
-                </td>   
-                <td align="center">
-                    <img
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-                        height="60"
-                        alt="typescript logo"
-                    />
-                    <img width="12" /><p>Bootstrap</p> 
-                </td>
-            </tr>
-        </tbody>
-        </table>
-<table>
+    <summary><b>⚙️ Backend Techno
