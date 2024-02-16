@@ -21,7 +21,7 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
           height="40"
           alt="javascript logo"
         />
@@ -29,7 +29,7 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"
           height="40"
           alt="typescript logo"
         />
@@ -37,36 +37,54 @@
         </td>
         <td>
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> Laravel
         </td>
         <td>
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> ReactJS
         </td>
         <td>
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> MySQL
         </td>
         <td>
         <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /> Tailwind
         </td>
+    </tr>
+    <tr>
+        <td>
+        <img
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
+            height="40"
+            alt="typescript logo"
+        />
+        <img width="12" /> Bootstrap
+        </td>
+        <td>
+            <img
+                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"
+                height="40"
+                alt="typescript logo"
+            />
+            <img width="12" /> Docker
+            </td>           
     </tr>
   </tbody>
 </table>
