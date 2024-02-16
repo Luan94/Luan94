@@ -24,7 +24,6 @@
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
           height="40"
           alt="javascript logo"
-          style="filter: invert(100%);"
         />
         <img width="12" /><br><p>PHP</p>
       </td>
@@ -33,7 +32,6 @@
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"
           height="40"
           alt="typescript logo"
-          style="filter: invert(100%);"
         />
         <img width="12" /><br><p>Javascript</p>
         </td>
@@ -42,7 +40,6 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"
             height="40"
             alt="typescript logo"
-            style="filter: invert(100%);"
         />
         <img width="12" /><br><p>Laravel</p>
         </td>
@@ -51,7 +48,6 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"
             height="40"
             alt="typescript logo"
-            style="filter: invert(100%);"
         />
         <img width="12" /> <br><p>ReactJS</p>
         </td>
@@ -62,7 +58,6 @@
                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"
                 height="40"
                 alt="typescript logo"
-                style="filter: invert(100%);"
             />
             <img width="12" /><p>MySQL</p> 
             </td>
@@ -71,7 +66,6 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
             height="40"
             alt="typescript logo"
-            style="filter: invert(100%);"
         />
         <img width="12" /><p>Bootstrap</p>
         </td>
@@ -80,7 +74,6 @@
                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg"
                 height="40"
                 alt="typescript logo"
-                style="filter: invert(100%);"
             />
             <img width="12" /><p>Docker</p>
             </td>   
@@ -89,7 +82,6 @@
                     src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg"
                     height="40"
                     alt="typescript logo"
-                    style="filter: invert(100%);"
                 />
                 <img width="12" /><p>Tailwind</p>
             </td>        
