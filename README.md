@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **luanvilas0@gmail.com**
 
-- ⚡ Fun fact **I also like to read about games development and design**
+- ⚡ Fun fact: **I also like to read about games development and design**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
