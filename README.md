@@ -25,7 +25,7 @@
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /><br>PHP
+        <img width="12" /><br><p>PHP</p>
       </td>
       <td align="center">
         <img
@@ -33,7 +33,7 @@
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /><br>Javascript
+        <img width="12" /><br><p>Javascript</p>
         </td>
         <td align="center">
         <img
@@ -49,7 +49,7 @@
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> ReactJS
+        <img width="12" /> <br><p>ReactJS</p>
         </td>
         <td align="center">
         <img
