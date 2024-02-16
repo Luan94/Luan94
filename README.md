@@ -25,7 +25,7 @@
           height="40"
           alt="javascript logo"
         />
-        <img width="12" /> PHP
+        <img width="12" /><br>PHP
       </td>
       <td>
         <img
@@ -33,7 +33,7 @@
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /> Javascript
+        <img width="12" /><br>Javascript
         </td>
         <td>
         <img
@@ -41,7 +41,7 @@
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> Laravel
+        <img width="12" /><br>Laravel
         </td>
         <td>
         <img
