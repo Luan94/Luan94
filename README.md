@@ -34,6 +34,39 @@
           alt="typescript logo"
         />
         <img width="12" /> Javascript
-    </td>
+        </td>
+        <td>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            height="40"
+            alt="typescript logo"
+        />
+        <img width="12" /> Javascript
+        </td>
+        <td>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            height="40"
+            alt="typescript logo"
+        />
+        <img width="12" /> Javascript
+        </td>
+        <td>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            height="40"
+            alt="typescript logo"
+        />
+        <img width="12" /> Javascript
+        </td>
+        <td>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            height="40"
+            alt="typescript logo"
+        />
+        <img width="12" /> Javascript
+        </td>
+    </tr>
   </tbody>
 </table>
