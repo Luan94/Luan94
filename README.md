@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋</h1> 
-<h2>I'm Luan Vilas Boas</h2>
+<h2 align="center">I'm Luan Vilas Boas</h2>
 <h3 align="center">FullStack Developer Jr</h3>
 
 - 🌱 I’m currently learning **Laravel, ReactJS and TDD**
