@@ -34,56 +34,62 @@
           alt="typescript logo"
         />
         <img width="12" /> Javascript
+    </td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> Laravel
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> ReactJS
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> MySQL
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> Bootstrap
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> Tailwind
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> HTML5
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
+    </td>
         <img width="12" /> JQuery
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /> OutSystems
-      </td>
-      <td>
+    </td>
     </tr>
   </tbody>
 </table>
