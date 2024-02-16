@@ -20,7 +20,7 @@
 <details open>
     <summary><b>🏗️ DevOPS Technologies</b></summary>
     <br>
-    <table>
+    <table align="center">
         <tbody td align="center">
           <tr>
             <td align="center">
@@ -38,7 +38,7 @@
 
 <details open>
     <summary><b>👨‍💻Programming Languages Technologies</b></summary>
-    <table>
+    <table align="center">
         <tbody td align="center">
           <tr>
             <td align="center">
@@ -64,7 +64,7 @@
 
 <details open>
     <summary><b>⚙️ Database Technologies</b></summary>
-    <table>
+    <table align="center">
         <tbody td align="center">
           <tr>
             <td align="center">
@@ -82,7 +82,7 @@
 
 <details open>
     <summary><b>⚙️ Backend Technologies</b></summary>
-    <table>
+    <table align="center">
         <tbody td align="center">
           <tr>
             <td align="center">
