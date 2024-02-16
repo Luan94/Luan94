@@ -17,7 +17,7 @@
 <hr/>
 <h3>Current Languages and Tools</h3>
 <table>
-  <tbody>
+  <tbody td align="center">
     <tr>
       <td align="center">
         <img
@@ -33,7 +33,7 @@
           height="40"
           alt="typescript logo"
         />
-        <img width="12" /><br>Javascript
+        <img width="12" /><br><p>Javascript</p>
         </td>
         <td align="center">
         <img
@@ -41,7 +41,7 @@
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /><br>Laravel
+        <img width="12" /><br><p>Laravel</p>
         </td>
         <td align="center">
         <img
@@ -59,7 +59,7 @@
                 height="40"
                 alt="typescript logo"
             />
-            <img width="12" /> MySQL
+            <img width="12" /><p>MySQL</p> 
             </td>
         <td align="center">
         <img
@@ -67,7 +67,7 @@
             height="40"
             alt="typescript logo"
         />
-        <img width="12" /> Bootstrap
+        <img width="12" /><p>Bootstrap</p>
         </td>
         <td align="center">
             <img
@@ -75,7 +75,7 @@
                 height="40"
                 alt="typescript logo"
             />
-            <img width="12" /> Docker
+            <img width="12" /><p>Docker</p>
             </td>   
             <td align="center">
                 <img
@@ -83,8 +83,8 @@
                     height="40"
                     alt="typescript logo"
                 />
-                <img width="12" /> Tailwind
-                </td>        
+                <img width="12" /><p>Tailwind</p>
+            </td>        
     </tr>
   </tbody>
 </table>
