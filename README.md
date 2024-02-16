@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJS and TDD**
 
-- 💬 Ask me about **PHP, Wordpress or Laravel**
+- 💬 Ask me about: **PHP, Wordpress or Laravel**
 
 - 📫 How to reach me: **luanvilas0@gmail.com**
 
