@@ -19,7 +19,7 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: center;">
+      <td style="text-align: center !important;">
         <img
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"
           height="40"
