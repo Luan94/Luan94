@@ -65,14 +65,6 @@
                 />
                 <img width="12" /><br><p>Javascript</p>
             </td>
-            <td align="center">
-                <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
-                  height="60"
-                  alt="jQuery logo"
-                />
-                <img width="12" /><br><p>jQuery</p>
-            </td>
           </tr>
         </tbody>
     </table>
@@ -166,6 +158,14 @@
                   alt="HTML logo"
                 />
                 <img width="12" /><br><p>HTML</p>
+            </td>
+              <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+                  height="60"
+                  alt="jQuery logo"
+                />
+                <img width="12" /><br><p>jQuery</p>
             </td>
           </tr>
         </tbody>
