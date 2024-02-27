@@ -81,6 +81,14 @@
                 />
                 <img width="12" /><br><p>HTML</p>
             </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                  height="60"
+                  alt="Git logo"
+                />
+                <img width="12" /><br><p>Git</p>
+            </td>
           </tr>
         </tbody>
     </table>
