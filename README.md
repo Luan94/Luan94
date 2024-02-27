@@ -31,6 +31,14 @@
                 />
                 <img width="12" /><br><p>Docker</p>
             </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                  height="60"
+                  alt="Git logo"
+                />
+                <img width="12" /><br><p>Git</p>
+            </td>
           </tr>
         </tbody>
     </table>
@@ -64,30 +72,6 @@
                   alt="jQuery logo"
                 />
                 <img width="12" /><br><p>jQuery</p>
-            </td>
-            <td align="center">
-                <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-                  height="60"
-                  alt="CSS logo"
-                />
-                <img width="12" /><br><p>CSS</p>
-            </td>
-            <td align="center">
-                <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-                  height="60"
-                  alt="HTML logo"
-                />
-                <img width="12" /><br><p>HTML</p>
-            </td>
-            <td align="center">
-                <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                  height="60"
-                  alt="Git logo"
-                />
-                <img width="12" /><br><p>Git</p>
             </td>
           </tr>
         </tbody>
@@ -166,6 +150,22 @@
                     alt="Bootstrap logo"
                 />
                 <img width="12" /><br><p>Bootstrap</p> 
+            </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                  height="60"
+                  alt="CSS logo"
+                />
+                <img width="12" /><br><p>CSS</p>
+            </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                  height="60"
+                  alt="HTML logo"
+                />
+                <img width="12" /><br><p>HTML</p>
             </td>
           </tr>
         </tbody>
