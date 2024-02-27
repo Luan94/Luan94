@@ -57,6 +57,30 @@
                 />
                 <img width="12" /><br><p>Javascript</p>
             </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+                  height="60"
+                  alt="jQuery logo"
+                />
+                <img width="12" /><br><p>jQuery</p>
+            </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                  height="60"
+                  alt="CSS logo"
+                />
+                <img width="12" /><br><p>CSS</p>
+            </td>
+            <td align="center">
+                <img
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                  height="60"
+                  alt="HTML logo"
+                />
+                <img width="12" /><br><p>HTML</p>
+            </td>
           </tr>
         </tbody>
     </table>
